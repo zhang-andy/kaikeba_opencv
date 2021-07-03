@@ -1,0 +1,3 @@
+/home/andy/project/hello_world/build/CMakeFiles/rebuild_cache.dir
+/home/andy/project/hello_world/build/CMakeFiles/demo.dir
+/home/andy/project/hello_world/build/CMakeFiles/edit_cache.dir
